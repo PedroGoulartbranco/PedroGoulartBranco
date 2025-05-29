@@ -40,55 +40,7 @@
   <a href="https://www.python.org/" title="Python" target="_blank">
     <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
   </a>
-  <a href="https://learn.microsoft.com/en-us/dotnet/csharp/" title="C#" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/csharp/csharp-original.svg" width="35" />
-  </a>
-  <a href="https://devdocs.io/c/" title="C" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" width="35" />
-  </a>
-  <a href="https://devdocs.io/cpp/" title="C++" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-original.svg" width="35" />
-  </a>
-  <a href="https://www.mysql.com/" title="MySQL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="35" />
-  </a>
-  <a href="https://www.postgresql.org/" title="PostgreSQL" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" width="35" />
-  </a>
-  <a href="https://www.linux.org/" title="Linux" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" width="35" />
-  </a>
-  <a href="https://github.com/" title="GitHub" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="35" />
-  </a>
-  <a href="https://www.arduino.cc/" title="Arduino" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/arduino/arduino-original.svg" width="35" />
-  </a>
-  <a href="https://code.visualstudio.com/" title="VSCode" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" width="35" />
-  </a>
-  <a href="https://www.figma.com/" title="Figma" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" width="35" />
-  </a>
-  <!-- IDEs e Ferramentas adicionais -->
-  <a href="https://www.jetbrains.com/idea/" title="IntelliJ IDEA" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" width="35" />
-  </a>
-  <a href="https://www.jetbrains.com/pycharm/" title="PyCharm" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pycharm/pycharm-original.svg" width="35" />
-  </a>
-  <a href="https://www.eclipse.org/" title="Eclipse" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/eclipse/eclipse-original.svg" width="35" />
-  </a>
-  <a href="https://www.anaconda.com/" title="Anaconda" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/anaconda/anaconda-original.svg" width="35" />
-  </a>
-  <a href="https://jupyter.org/" title="Jupyter Notebook" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="35" />
-  </a>
 </p>
-
----
 
 
 ---
