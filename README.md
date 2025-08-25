@@ -19,7 +19,7 @@
 ---
 
 ## 🎓 Formação
-
+- <b>Cursando Técnico de Desenvolvimentos de Sistemas no Senai</b>
 ---
 
 ## 💻 Tecnologias e Ferramentas
