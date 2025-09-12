@@ -1,51 +1,35 @@
-<h1 align="center">
-<img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Seja+bem+vindo!;" />
-</h1>
+![](https://komarev.com/ghpvc/?username=iuricode&color=006bed)
 
-<h1 align="center">👋 Olá, seja bem-vindo(a) ao meu perfil de desenvolvedor!</h1>
-<h2 align="center">Sou Pedro Goulart Branco</h2>
+## Sobre mim
 
+- 🤔 Explorando o mundo da programação e sempre buscando aprender coisas novas..
+- 🎓 Cursando  técnico em desenvolvimento de sistemas no Sesi Senai.
+- 💼 Trabalhando como jovem aprendiz na Malwee.
+- 🌱 Aprendendo mais sobre Python, HTML, CSS, JavaScript
 
-## 🧑‍💻 Sobre mim
+## Minhas Skills
 
-- 🎓 <b>Desenvolvedor em formação.</b>, 
----
+**Aplicações e dados**
 
-## 🌐 Idioma.
-
-- 🇧🇷 <b>Português:</b> fluente (nativo)
-- 🇺🇸 <b>Inglês:</b> intermediário
-
----
-
-## 🎓 Formação
-- <b>Cursando Técnico de Desenvolvimentos de Sistemas no Senai</b>
----
-
-## 💻 Tecnologias e Ferramentas
-
-<p align="left">
-  <a href="https://developer.mozilla.org/en-US/docs/Web/HTML" title="HTML5" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" width="35" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/CSS" title="CSS3" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="35" />
-  </a>
-  <a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" title="JavaScript" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" width="35" />
-  </a>
-  <a href="https://www.java.com/" title="Java" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" width="35" />
-  </a>
-  <a href="https://www.python.org/" title="Python" target="_blank">
-    <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" width="35" />
-  </a>
-</p>
+![Python](https://img.shields.io/badge/-Python-333333?style=flat&logo=python&logoColor=3776AB)
+![Java](https://img.shields.io/badge/-Java-333333?style=flat&logo=Java&logoColor=007396)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript)
+![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=HTML5)
+![CSS](https://img.shields.io/badge/-CSS-333333?style=flat&logo=CSS3&logoColor=1572B6)
+![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql)
 
 
----
 
-<!-- Profile Animated Footer -->
-<p align="center">
-  <img src="https://raw.githubusercontent.com/lucasschlei/lucasschlei/assets/animated-footer.gif" alt="Animated Coding Footer" width="100%" />
-</p>
+**Ferramentas de desenvolvimento**
+
+![Visual Studio Code](https://img.shields.io/badge/-Visual%20Studio%20Code-333333?style=flat&logo=visual-studio-code&logoColor=007ACC)
+
+<br/>
+
+<a href="https://github.com/iuricode" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=iuricode&theme=dracula&show_icons=true" />
+</a>
+
+## Onde me encontrar
+
+[![Linkedin](https://img.shields.io/badge/-username-blue?style=flat-square&logo=Linkedin&logoColor=white&link=LINK-DO-SEU-LINKEDIN)](LINK-DO-SEU-LINKEDIN)
