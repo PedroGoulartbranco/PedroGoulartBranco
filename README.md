@@ -26,8 +26,8 @@
 
 <br/>
 
-<a href="https://github.com/iuricode" title="Perfil do Iuri">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroGoulartBrancoe&theme=dracula&show_icons=true" />
+<a href="https://github.com/PedroGoulartBranco" title="Perfil do Iuri">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=PedroGoulartBranco&theme=dracula&show_icons=true" />
 </a>
 
 ## Onde me encontrar
