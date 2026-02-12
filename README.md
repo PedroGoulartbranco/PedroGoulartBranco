@@ -1,26 +1,20 @@
-## 👋 Olá, eu sou o Pedro
+# 👋 Pedro Goulart
 
-🎓 Ex Estudante de Desenvolvimento de Sistemas (SESI SENAI)  
+🎓 Técnico em Desenvolvimento de Sistemas (Senai)
+🎓 Software Engineering student (Católica)  
 💼 Jovem Aprendiz na Malwee  
-🧠 Interessado em Inteligência Artificial e Machine Learning  
 
-### 💻 Linguagens
-- Python
-- C
-- Java
-- JavaScript
-- HTML5 / CSS3
+## 💻 Tech
+- Python  
+- C  
+- Java  
+- JavaScript  
 
-### 🧠 Áreas de Interesse
-- Machine Learning
-- Lógica de Programação
-- Algoritmos
-- Desenvolvimento de Sistemas
+## 🧠 Interests
+- Artificial Intelligence & Machine Learning  
+- Algorithms & Logic  
+- Game Development  
+- Systems Development  
 
-### 🔧 Ferramentas
-- Visual Studio Code
-- MySQL
-- Git & GitHub
-
-
-🚀 Gosto de aprender na prática, criando pequenos projetos para entender como as coisas funcionam por dentro.
+## 🚀 About me
+Gosto de aprender na prática, criando projetos e entendendo como as coisas funcionam por dentro. Sempre testando ideias novas e evoluindo como dev.
