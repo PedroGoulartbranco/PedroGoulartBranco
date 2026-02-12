@@ -1,6 +1,6 @@
 # 👋 Pedro Goulart
 
-🎓 Técnico em Desenvolvimento de Sistemas (Senai)
+🎓 Técnico em Desenvolvimento de Sistemas (Senai)   
 🎓 Software Engineering student (Católica)  
 💼 Jovem Aprendiz na Malwee  
 
