@@ -1,14 +1,20 @@
-# 👋 Pedro Goulart
+# 👋 Pedro Goulart Branco
 
-🎓 Técnico em Desenvolvimento de Sistemas (Senai)   
-🎓 Software Engineering student (Católica)  
-💼 Jovem Aprendiz na Malwee  
+💻 Software Engineering Student | Backend & Python Developer  
 
-## 💻 Tech
-- Python  
-- C  
-- Java  
-- JavaScript  
+🎓 Technical Degree in Systems Development – Senai  
+🎓 Software Engineering Student – Católica  
+💼 Young Apprentice at Malwee  
+
+---
+
+## 💻 Tech Stack
+- Python
+- C
+- Java
+- JavaScript
+
+---
 
 ## 🧠 Interests
 - Artificial Intelligence & Machine Learning  
@@ -16,5 +22,26 @@
 - Game Development  
 - Systems Development  
 
-## 🚀 About me
-Gosto de aprender na prática, criando projetos e entendendo como as coisas funcionam por dentro. Sempre testando ideias novas e evoluindo como dev.
+---
+
+## 🧩 Projects
+Here are some of the projects I’ve built while learning programming:
+
+- 🚀 Space Shooter Game – Game developed with Python and Pygame  
+- 🏓 Pong Game – Classic Pong game recreated with Python  
+- 🏢 Tycoon Web Game – Web game using Flask with login and database system  
+- 📝 Simple Notes App – Basic notes application
+
+---
+
+## 🚀 About Me
+I enjoy learning by building real projects and understanding how systems work internally.  
+I like experimenting with new ideas and continuously improving as a developer.
+
+Currently focused on improving my backend development and building practical projects.
+
+---
+
+## 📫 Contact
+- GitHub: https://github.com/SEU-USUARIO
+- Email: seuemail@email.com
