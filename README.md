@@ -43,5 +43,5 @@ Currently focused on improving my backend development and building practical pro
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/SEU-USUARIO
-- Email: seuemail@email.com
+- GitHub: https://github.com/PedroGoulartbranco
+- Email: pgoulart@gmail.com
