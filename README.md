@@ -1,14 +1,14 @@
 # 👋 Pedro Goulart Branco
 
-💻 Software Engineering Student | Backend & Python Developer  
+💻 Software Engineering Student | Backend & Python Developer
 
-🎓 Technical Degree in Systems Development – Senai  
+🎓 Systems Development Technician – Senai  
 🎓 Software Engineering Student – Católica  
 💼 Young Apprentice at Malwee  
 
 ---
 
-## 💻 Tech Stack
+## 💻 Tech
 - Python
 - C
 - Java
@@ -17,21 +17,20 @@
 ---
 
 ## 🧠 Interests
-- Artificial Intelligence & Machine Learning  
-- Algorithms & Logic  
-- Game Development  
-- Systems Development  
+- Artificial Intelligence & Machine Learning
+- Algorithms & Problem Solving
+- Game Development
+- Backend Development
 
 ---
 
 ## 🚀 About Me
-I enjoy learning by building real projects and understanding how systems work internally.  
-I like experimenting with new ideas and continuously improving as a developer.
+Software engineering student passionate about learning through building projects and understanding how systems work.
 
-Currently focused on improving my backend development and building practical projects.
+Currently focused on backend development and improving my programming skills.
 
 ---
 
 ## 📫 Contact
-- GitHub: https://github.com/PedroGoulartbranco
-- Email: pgoulart@gmail.com
+GitHub: https://github.com/PedroGoulartbranco  
+Email: pgoulart@gmail.com
