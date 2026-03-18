@@ -32,5 +32,4 @@ Currently focused on backend development and improving my programming skills.
 ---
 
 ## 📫 Contact
-GitHub: https://github.com/PedroGoulartbranco  
 Email: pgoulart@gmail.com
