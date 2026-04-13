@@ -1,35 +1,35 @@
-# 👋 Pedro Goulart Branco
+# 👋 Hi, I'm Pedro Goulart Branco
 
-💻 Software Engineering Student | Backend & Python Developer
+**Software Engineering Student | Backend Developer | FIDE Rated Chess Player**
 
-🎓 Systems Development Technician – Senai  
-🎓 Software Engineering Student – Católica  
-💼 Young Apprentice at Malwee  
+I'm a developer who likes to "open the hood" and understand how systems work. My foundation is built on the intersection of competitive chess logic and building secure, scalable software.
 
 ---
 
-## 💻 Tech
-- Python
-- C
-- Java
-- JavaScript
+### 🛠️ Tech Stack
+- **Languages:** Python (FastAPI/Flask), Java, C, JavaScript/TypeScript.
+- **Tools:** AWS, Git, SQL, Linux.
+- **Specialties:** Backend Architecture & Security-first development.
 
 ---
 
-## 🧠 Interests
-- Artificial Intelligence & Machine Learning
-- Algorithms & Problem Solving
-- Game Development
-- Backend Development
+### 🚀 Featured Projects
+- 🤖 **AI Code Reviewer:** A VS Code Extension using Gemini API for real-time code optimization.
+- 🔒 **FluxMedia:** A secure media platform focused on preventing XSS & Clickjacking.
+- ♟️ **Analytical Thinking:** Applying FIDE-level strategic logic (ID: 44741065) to complex system design.
 
 ---
 
-## 🚀 About Me
-Software engineering student passionate about learning through building projects and understanding how systems work.
-
-Currently focused on backend development and improving my programming skills.
+### 💼 Professional & Academic
+- **Young Apprentice** @ Malwee
+- **B.S. Software Engineering** @ Católica SC
+- **AWS Cloud Scholar** @ Santander Jornada Tech
 
 ---
 
-## 📫 Contact
-Email: pgoulart@gmail.com
+### 📫 Connect with me
+- 📧 [pgoulart@gmail.com](mailto:pgoulart@gmail.com)
+- 🔗 [LinkedIn](https://www.linkedin.com/in/pedro-goulart-branco-58022b384/)
+- ♟️ [FIDE Profile](https://ratings.fide.com/profile/44741065)
+
+**"Always doing my best."** 🚀
