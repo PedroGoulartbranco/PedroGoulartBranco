@@ -15,7 +15,7 @@ I'm a developer who likes to "open the hood" and understand how systems work. My
 
 ## 🚀 Featured Projects
 
-### 🔒 [FluxMedia](https://github.com/PedroGoulartbranco/FluxMedia) (WIP)
+### 🔒 [FluxMedia](https://github.com/PedroGoulartbranco/FluxMedia)
 Plataforma de mídia desenvolvida com foco em **Cybersecurity**. O objetivo principal é a implementação de defesas robustas contra vulnerabilidades web críticas.
 - **Tech Stack:** Python, Flask, Security Headers (CSP, X-Frame-Options).
 - **Key Feature:** Proteção nativa contra ataques de *Clickjacking* e *Cross-Site Scripting (XSS)*.
