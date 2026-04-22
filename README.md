@@ -13,7 +13,7 @@
 
 ## 🚀 Featured Projects
 
-- 🔒 [FluxMedia](https://github.com/PedroGoulartbranco/FluxMedia)
+- 📼 [FluxMedia](https://github.com/PedroGoulartbranco/FluxMedia)
 - 🛒 [AI Semantic Search E-commerce](https://github.com/PedroGoulartbranco/ai-semantic-search-ecommerce)
 - 🛸 [Nave Survivor Game](https://github.com/PedroGoulartbranco/Nave-Survivor-Game-in-Pygame-)
 
