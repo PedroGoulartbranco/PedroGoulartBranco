@@ -2,8 +2,6 @@
 
 **Software Engineering Student | Backend Developer | FIDE Rated Chess Player**
 
-I'm a developer who likes to "open the hood" and understand how systems work. My foundation is built on the intersection of competitive chess logic and building secure, scalable software.
-
 ---
 
 ### 🛠️ Tech Stack
