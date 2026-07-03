@@ -6,7 +6,7 @@
 
 ### 🛠️ Tech Stack
 - **Languages:** Python (FastAPI/Flask), Java, C, JavaScript/TypeScript.
-- **Tools:** AWS, Git, SQL, Linux.
+- **Tools:** Git, SQL.
 - **Specialties:** Backend Architecture & Security-first development.
 
 ---
