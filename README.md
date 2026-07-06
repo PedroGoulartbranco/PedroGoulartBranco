@@ -14,7 +14,7 @@
 ## 🚀 Featured Projects
 
 - 📼 [FluxMedia](https://github.com/PedroGoulartbranco/FluxMedia)
-- 🛒 [AI Semantic Search E-commerce](https://github.com/PedroGoulartbranco/ai-semantic-search-ecommerce)
+- 🛒 [vscode-ai-code-reviewer](https://github.com/PedroGoulartbranco/vscode-ai-code-reviewer)
 - 🛸 [Nave Survivor Game](https://github.com/PedroGoulartbranco/Nave-Survivor-Game-in-Pygame-)
 
 ---
@@ -22,7 +22,6 @@
 ### 💼 Professional & Academic
 - **Young Apprentice** @ Malwee
 - **B.S. Software Engineering** @ Católica SC
-- **AWS Cloud Scholar** @ Santander Jornada Tech
 
 ---
 
