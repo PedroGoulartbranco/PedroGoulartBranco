@@ -14,7 +14,7 @@
 ## 🚀 Featured Projects
 
 - 📼 [FluxMedia](https://github.com/PedroGoulartbranco/FluxMedia)
-- 🛒 [vscode-ai-code-reviewer](https://github.com/PedroGoulartbranco/vscode-ai-code-reviewer)
+- 🤖 [vscode-ai-code-reviewer](https://github.com/PedroGoulartbranco/vscode-ai-code-reviewer)
 - 🛸 [Nave Survivor Game](https://github.com/PedroGoulartbranco/Nave-Survivor-Game-in-Pygame-)
 
 ---
