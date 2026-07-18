@@ -19,7 +19,7 @@ I am a **Software Engineering Student** and **Backend Developer** focused on sca
 ---
 
 ### ♟️ Beyond Code
-- **FIDE Rated Chess Player** (Applying tactical problem-solving to code)
+- **FIDE Rated Chess Player** 
 - **B.S. Software Engineering** @ Católica SC
 
 ---
