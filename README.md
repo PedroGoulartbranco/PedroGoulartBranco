@@ -1,6 +1,6 @@
 # Hi, I'm Pedro Goulart Branco 🚀
 
-I am a **Software Engineering Student** and **Backend Developer** focused on scalable architectures, security-first systems, and game engine mechanics. I bridge analytical thinking from competitive chess with robust software design.
+I am a **Computer Engineering Student** and **Backend Developer** focused on scalable architectures, security-first systems, and game engine mechanics. I bridge analytical thinking from competitive chess with robust software design.
 
 ---
 
