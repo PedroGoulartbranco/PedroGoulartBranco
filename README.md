@@ -20,7 +20,7 @@ I am a **Computer Engineering Student** and **Backend Developer** focused on sca
 
 ### ♟️ Beyond Code
 - **FIDE Rated Chess Player** 
-- **B.S. Software Engineering** @ Católica SC
+- **B.S. Computer Engineering @ IFC
   
 ---
 
